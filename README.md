@@ -5,7 +5,7 @@
 
 ## 项目截图
 
-![](https://img.alicdn.com/tps/TB10sZlNVXXXXclXpXXXXXXXXXX-1425-673.gif)
+![](https://github.com/degree1992/img_store/blob/master/1557414366817.gif)
 
 
 ## 使用方法
