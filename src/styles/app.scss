@@ -2,7 +2,7 @@ html, body, div, h5, h6, p, ul, li {
     margin: 0px;
     padding: 0px;
 }
-
+$primary-color: #333;
 #app {
     /* 左侧导航固定宽度 */
     #leftMenu {
@@ -10,7 +10,7 @@ html, body, div, h5, h6, p, ul, li {
         top: 0;
         left: 0;
         bottom: 0;
-        background: #333;
+        background: $primary-color;
         width: 200px;
         box-sizing: border-box;
     }
